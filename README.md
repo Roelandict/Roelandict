@@ -1,6 +1,9 @@
 - 👋 Hi, I’m Roeland van den Berg
-- 👀 I’m interested in writing golang
-- 🌱 I’m currently learning to write golang
+-  🚶‍♂️Gender: Man
 - ✈ I'm living in the Neterlands
-- 😄 Pronouns: Roe- land
-
+- 📖 I'm studying IT Administration on Mbo 
+- 😄 pronouns: Roe- land
+- specs:
++ Administrating Linux OS
++ Working with config files
++ Create/configer: VM's, Kubernetes Clusters, Linux OS machines and Windows servers
